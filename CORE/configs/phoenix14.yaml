@@ -1,0 +1,5 @@
+#dataset_root: /hdd1/phoenix2014-release/phoenix-2014-multisigner
+dataset_root: /hdd1/glm/data/Phoenix2014
+dict_path: /hdd1/zy/code/GCN_cue1/preprocess/phoenix2014/gloss_dict.npy
+evaluation_dir: ./evaluation/slr_eval
+evaluation_prefix: phoenix2014-groundtruth
