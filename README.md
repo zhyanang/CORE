@@ -6,7 +6,7 @@ Our training and inference procedure is modified from VAC(ICCV 2021)
   
   Pytorch (>1.8).
   
-  ctcdecode
+  ctcdecode==0.4([download link](https://github.com/parlance/ctcdecode))，for beam search decode.
   
   sclite
 # Data Preparation
