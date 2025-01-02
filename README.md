@@ -25,6 +25,8 @@ Our training and inference procedure is modified from VAC(ICCV 2021)
   ## CSL-Daily dataset
   Request the CSL-Daily Dataset from this([paper](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Improving_Sign_Language_Translation_With_Monolingual_Data_by_Sign_Back-Translation_CVPR_2021_paper.html))([download link](http://home.ustc.edu.cn/~zhouh156/dataset/csl-daily/))
 
+# Test
+
  To evaluate the model, run the code below：
 
  `python main.py --device your_device --load-weights path_to_weight.pt --phase test`
